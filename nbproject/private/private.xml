@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/my_projects/online_library/app/routes.php</file>
+            <file>file:/G:/my_projects/online_library/app/views/books/show.blade.php</file>
+            <file>file:/G:/my_projects/online_library/app/views/books/index.blade.php</file>
+            <file>file:/G:/my_projects/online_library/app/views/users/login.blade.php</file>
+            <file>file:/G:/my_projects/online_library/app/controllers/BooksController.php</file>
+            <file>file:/G:/my_projects/online_library/app/views/layouts/default.blade.php</file>
+            <file>file:/G:/my_projects/online_library/public/styles/style.css</file>
+            <file>file:/G:/my_projects/online_library/app/views/books/create.blade.php</file>
+            <file>file:/G:/my_projects/online_library/app/models/Book.php</file>
+        </group>
+    </open-files>
+</project-private>

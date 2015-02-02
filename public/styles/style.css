@@ -1,0 +1,129 @@
+*, h1 {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: PT Sans Narrow;
+    background: #b79a72 url("/images/header.jpg") fixed left top 100%;
+}
+.wrapper {
+    position: absolute;
+    left: 250px;
+    top: 110px;
+    width: 65%;
+    background-color: #fff;
+    padding: 25px 80px;
+    margin-bottom: 120px;
+}
+.header div {
+    display: inline-block;
+    margin-bottom: 30px;    
+}
+.header .menu {
+    position: absolute;
+    right: 80px;
+    top: 50px;
+}
+.login {
+    text-align: center;
+    margin-bottom: 85px;
+}
+.login div {
+    margin-top: 30px;   
+}
+.login .login_btn {
+    padding-top: 30px;
+}
+.right, .left {    
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+li.pull-right, li.pull-left {
+    padding-right: 0;
+    padding-left: 0;
+}
+input[type=submit] {
+    background:url("/images/btn/submit.png") no-repeat scroll 0 0 transparent;
+    height: 30px;
+    width: 140px;
+    border: none;
+}
+#login_btn {
+    background:url("/images/btn/login.png") no-repeat scroll 0 0 transparent;
+    height: 30px;
+    width: 140px;
+    border: none;
+}
+input[type=text], input[type=password] {
+    background:url("/images/btn/input_text.png");
+    height: 30px;
+    width: 300px;
+    border: none;
+    font-size: 18px; 
+    font-family: PT Sans Narrow; 
+    padding-left: 14px; 
+}
+input[type=file] {
+    padding-top: 4px;
+}
+select {
+    background:url("/images/btn/select.png");
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    height: 30px;
+    width: 300px;
+    border: none;    
+    font-size: 18px; 
+    font-family: PT Sans Narrow;
+    padding-left: 10px; 
+}
+textarea {
+    background:url("/images/btn/textarea.png");    
+    height: 61px;
+    width: 300px;
+    border: none;
+    padding: 0;     
+    font-size: 18px; 
+    overflow: auto; 
+    font-family: PT Sans Narrow;   
+    padding-left: 14px;
+}
+
+*::-webkit-input-placeholder {
+    color: black;
+}
+*:-moz-placeholder {
+    /* FF 4-18 */
+    color: black;
+    opacity: 10;
+}
+*::-moz-placeholder {
+    /* FF 19+ */
+    color: black;
+    opacity: 10;
+}
+*:-ms-input-placeholder {
+    /* IE 10+ */
+    color: black;
+}
+p {
+    font-size: 16px;
+}
+.covers {
+    height: 200px;
+    width: 140px;
+}
+.image {
+    height: 300px;
+    width: 200px;
+}
+.ui-datepicker-calendar tr, .ui-datepicker-calendar td, .ui-datepicker-calendar td a, 
+.ui-datepicker-calendar th {
+    font-size:inherit;
+    font-family: PT Sans Narrow;  
+}
+div.ui-datepicker {
+    font-size:18px;
+    width:300px;
+    height:inherit;
+}
